@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PHmonika-new.png">
+<SubTexture name="PHmonika-new idle0000" x="0" y="0" width="467" height="888" frameX="-181" frameY="-163" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new idle0001" x="467" y="0" width="449" height="895" frameX="-202" frameY="-156" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new idle0002" x="916" y="0" width="458" height="902" frameX="-195" frameY="-149" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new idle0003" x="1374" y="0" width="465" height="906" frameX="-189" frameY="-145" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new idle0004" x="1839" y="0" width="476" height="906" frameX="-178" frameY="-145" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singDOWN0000" x="2315" y="0" width="492" height="852" frameX="-194" frameY="-200" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singDOWN0001" x="0" y="906" width="490" height="862" frameX="-196" frameY="-190" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singDOWN0002" x="490" y="906" width="483" height="873" frameX="-201" frameY="-179" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singDOWN0003" x="973" y="906" width="483" height="873" frameX="-201" frameY="-179" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singLEFT0000" x="1456" y="906" width="519" height="916" frameX="-101" frameY="-140" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singLEFT0001" x="1975" y="906" width="522" height="914" frameX="-105" frameY="-142" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singLEFT0002" x="2497" y="906" width="526" height="913" frameX="-110" frameY="-143" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singLEFT0003" x="0" y="1822" width="526" height="913" frameX="-110" frameY="-143" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singUP0000" x="526" y="1822" width="561" height="941" frameX="-109" frameY="-112" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singUP0001" x="1087" y="1822" width="560" height="934" frameX="-116" frameY="-119" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singUP0002" x="1647" y="1822" width="557" height="925" frameX="-122" frameY="-127" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singUP0003" x="2204" y="1822" width="557" height="925" frameX="-122" frameY="-127" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singRIGHT0000" x="2761" y="1822" width="509" height="892" frameX="-200" frameY="-160" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singRIGHT0001" x="0" y="2763" width="506" height="893" frameX="-200" frameY="-159" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singRIGHT0002" x="506" y="2763" width="507" height="894" frameX="-196" frameY="-158" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new singRIGHT0003" x="1013" y="2763" width="507" height="894" frameX="-196" frameY="-158" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0000" x="1520" y="2763" width="422" height="911" frameX="-170" frameY="-141" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0001" x="1942" y="2763" width="422" height="909" frameX="-170" frameY="-143" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0002" x="2364" y="2763" width="422" height="906" frameX="-170" frameY="-146" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0003" x="1520" y="2763" width="422" height="911" frameX="-170" frameY="-141" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0004" x="1942" y="2763" width="422" height="909" frameX="-170" frameY="-143" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0005" x="2364" y="2763" width="422" height="906" frameX="-170" frameY="-146" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0006" x="1520" y="2763" width="422" height="911" frameX="-170" frameY="-141" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0007" x="1942" y="2763" width="422" height="909" frameX="-170" frameY="-143" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0008" x="2364" y="2763" width="422" height="906" frameX="-170" frameY="-146" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0009" x="0" y="3674" width="422" height="906" frameX="-170" frameY="-146" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0010" x="422" y="3674" width="422" height="906" frameX="-170" frameY="-146" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0011" x="422" y="3674" width="422" height="906" frameX="-170" frameY="-146" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0012" x="422" y="3674" width="422" height="906" frameX="-170" frameY="-146" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0013" x="422" y="3674" width="422" height="906" frameX="-170" frameY="-146" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHmonika-new giggle0014" x="422" y="3674" width="422" height="906" frameX="-170" frameY="-146" frameWidth="720" frameHeight="1280" />
+</TextureAtlas>
