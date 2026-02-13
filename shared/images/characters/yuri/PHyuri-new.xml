@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PHyuri-new.png">
+<SubTexture name="PHyuri-new idle0000" x="0" y="0" width="355" height="848" frameX="-178" frameY="-108" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new idle0001" x="355" y="0" width="360" height="855" frameX="-147" frameY="-102" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new idle0002" x="715" y="0" width="359" height="857" frameX="-159" frameY="-100" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new idle0003" x="1074" y="0" width="358" height="860" frameX="-171" frameY="-97" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new idle0004" x="1432" y="0" width="356" height="861" frameX="-179" frameY="-96" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singDOWN0000" x="1788" y="0" width="359" height="826" frameX="-123" frameY="-130" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singDOWN0001" x="2147" y="0" width="358" height="833" frameX="-135" frameY="-124" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singDOWN0002" x="2505" y="0" width="356" height="837" frameX="-145" frameY="-120" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singDOWN0003" x="0" y="861" width="356" height="837" frameX="-145" frameY="-120" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singLEFT0000" x="356" y="861" width="355" height="869" frameX="-154" frameY="-88" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singLEFT0001" x="711" y="861" width="357" height="866" frameX="-155" frameY="-91" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singLEFT0002" x="1068" y="861" width="356" height="866" frameX="-161" frameY="-91" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singLEFT0003" x="1424" y="861" width="356" height="866" frameX="-161" frameY="-91" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singUP0000" x="1780" y="861" width="355" height="894" frameX="-176" frameY="-64" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singUP0001" x="2135" y="861" width="357" height="889" frameX="-172" frameY="-69" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singUP0002" x="2492" y="861" width="356" height="883" frameX="-168" frameY="-74" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singUP0003" x="0" y="1755" width="356" height="883" frameX="-168" frameY="-74" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singRIGHT0000" x="356" y="1755" width="360" height="861" frameX="-197" frameY="-96" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singRIGHT0001" x="716" y="1755" width="358" height="861" frameX="-198" frameY="-96" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singRIGHT0002" x="1074" y="1755" width="356" height="863" frameX="-200" frameY="-94" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new singRIGHT0003" x="1430" y="1755" width="356" height="863" frameX="-200" frameY="-94" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new deepbreaths0000" x="1786" y="1755" width="356" height="861" frameX="-179" frameY="-96" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new deepbreaths0001" x="2142" y="1755" width="356" height="866" frameX="-179" frameY="-92" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new deepbreaths0002" x="2498" y="1755" width="356" height="872" frameX="-179" frameY="-86" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new deepbreaths0003" x="2498" y="1755" width="356" height="872" frameX="-179" frameY="-86" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new deepbreaths0004" x="2142" y="1755" width="356" height="866" frameX="-179" frameY="-92" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new deepbreaths0005" x="0" y="2638" width="356" height="837" frameX="-145" frameY="-120" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new deepbreaths0006" x="356" y="2638" width="356" height="833" frameX="-145" frameY="-124" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new deepbreaths0007" x="712" y="2638" width="379" height="831" frameX="-122" frameY="-126" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new deepbreaths0008" x="1091" y="2638" width="400" height="831" frameX="-101" frameY="-126" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new deepbreaths0009" x="1491" y="2638" width="410" height="831" frameX="-91" frameY="-126" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new deepbreaths0010" x="1901" y="2638" width="413" height="831" frameX="-88" frameY="-126" frameWidth="720" frameHeight="1280" />
+<SubTexture name="PHyuri-new deepbreaths0011" x="2314" y="2638" width="356" height="831" frameX="-145" frameY="-126" frameWidth="720" frameHeight="1280" />
+</TextureAtlas>
